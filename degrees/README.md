@@ -11,8 +11,4 @@ Name: Jennifer Lawrence
 3 degrees of separation.  
 1: Emma Watson and Brendan Gleeson starred in Harry Potter and the Order of the Phoenix  
 2: Brendan Gleeson and Michael Fassbender starred in Trespass Against Us  
-<<<<<<< HEAD
 3: Michael Fassbender and Jennifer Lawrence starred in X-Men: First Class  
-=======
-3: Michael Fassbender and Jennifer Lawrence starred in X-Men: First Class
->>>>>>> 545a1c99f564de4c4819d4aa6cd28191db9bbf86
