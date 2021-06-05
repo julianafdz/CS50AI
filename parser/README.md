@@ -1,4 +1,4 @@
-# Project 6a: Parser
+# Parser
 
 Write an AI to parse sentences and extract noun phrases.
 
@@ -6,15 +6,15 @@ Parsing is the process of determining the structure of a sentence, a common task
 
 In this project, is used the context-free grammar formalism to parse English sentences to determine their structure. In a context-free grammar, we repeatedly apply rewriting rules to transform symbols into other symbols.
 
-$ python parser.py
-Sentence: Holmes sat.
-        S
-   _____|___
-  NP        VP
-  |         |
-  N         V
-  |         |
-holmes     sat
+$ python parser.py  
+Sentence: Holmes sat.  
+        S  
+   _____|___  
+  NP        VP  
+  |         |  
+  N         V  
+  |         |  
+  holmes     sat  
 
-Noun Phrase Chunks
-holmes
+Noun Phrase Chunks  
+holmes  
