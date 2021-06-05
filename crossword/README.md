@@ -13,4 +13,4 @@ The problem in this project is modeled as a constraint satisfaction problem, wit
 █E█████M████L█  
 █R███SEARCH█V█  
 ███████X████E█  
-██████████████
+██████████████  
